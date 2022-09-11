@@ -1,0 +1,64 @@
+part he //------------------head
+move wl //walk left
+rot 	270.0,	265.0
+length 	0.5, 0.75
+
+move wr //walk right
+rot 	270.0,	275.0
+length 	0.5, 0.75
+
+
+part lt //------------------left theigh
+move wl //walk left
+rot 	60.0,	100.0
+length 	0.2, 0.2
+
+move wr //walk right
+rot 	120.0,	80.0
+length 	0.2, 0.2
+
+move st // stance
+rot 	70
+length 	0.2
+
+
+part rt //------------------right theigh
+move wl //walk left
+rot 	100.0,	60.0
+length 	0.2, 0.2
+
+move wr //walk right
+rot 	80.0,	120.0
+length 	0.2, 0.2
+
+move st // stance
+rot 	110.0
+length 	0.2
+
+
+part ls //------------------left shin
+move wl //walk left
+rot 	70.0,	130.0
+length 	0.2, 0.2
+
+move wr //walk right
+rot 	110.0,	50.0
+length 	0.2, 0.2
+
+move st // stance
+rot 	80.0
+length 	0.2
+
+
+part rs //------------------right shin
+move wl //walk left
+rot 	130.0,	70.0
+length 	0.2, 0.2
+
+move wr //walk right
+rot 	50.0,	110.0
+length 	0.2, 0.2
+
+move st // stance
+rot 	100.0
+length 	0.2

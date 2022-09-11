@@ -1,0 +1,180 @@
+part he //------------------head
+move wl //walk left
+rot 	270.0,	265.0
+length 	1.0, 1.0
+
+move wr //walk right
+rot 	270.0,	275.0
+length 	1.0, 1.0
+
+
+part lt //------------------left theigh
+move wl //walk left
+rot 	60.0,	100.0
+length 	1.0, 1.0
+
+move wr //walk right
+rot 	120.0,	80.0
+length 	1.0, 1.0
+
+move st // stance
+rot 	70
+length 	0.2
+
+move de //dead
+rot		-60
+length 	1.0
+
+
+part rt //------------------right theigh
+move wl //walk left
+rot 	100.0,	60.0
+length 	1.0, 1.0
+
+move wr //walk right
+rot 	80.0,	120.0
+length 	1.0, 1.0
+
+move st // stance
+rot 	110.0
+length 	0.2
+
+move de //dead
+rot		240
+length 	1.0
+
+
+part ls //------------------left shin
+move wl //walk left
+rot 	70.0,	130.0
+length 	1.0, 1.0
+
+move wr //walk right
+rot 	110.0,	50.0
+length 	1.0, 1.0
+
+move st // stance
+rot 	80.0
+length 	0.2
+
+move de //dead
+rot		70
+length 	1.0
+
+
+part rs //------------------right shin
+move wl //walk left
+rot 	130.0,	70.0
+length 	1.0, 1.0
+
+move wr //walk right
+rot 	50.0,	110.0
+length 	1.0, 1.0
+
+move st // stance
+rot 	100.0
+length 	0.2
+
+move de //dead
+rot		110
+length 	1.0
+
+part lu //------------------left upper arm
+move wl //walk left
+rot 	0.0,	10.0
+length 	2.0, 2.0
+
+move wr //walk right
+rot 	180.0,	170.0
+length 	2.0, 2.0
+
+move fl //fight left
+rot 	280.0,	370.0
+length 	1.0, 0.2
+
+move fr //fight right
+rot 	260.0,	170.0
+length 	1.0, 0.2
+
+move st // stance
+rot 	100.0
+length 	0.2
+
+move de //dead
+rot		60
+length 	1.0
+
+part ru //------------------right upper arm
+move wl //walk left
+rot 	15.0,	10.0
+length 	2.0, 2.0
+
+move wr //walk right
+rot 	170.0,	165.0
+length 	2.0, 2.0
+
+move fl //fight left
+rot 	270.0,	400.0
+length 	1.0, 0.2
+
+move fr //fight right
+rot 	270.0,	140.0
+length 	1.0, 0.2
+
+move st // stance
+rot 	100.0
+length 	0.2
+
+move de //dead
+rot		120
+length 	1.0
+
+part lf //------------------left forearm
+move wl //walk left
+rot 	350.0,	360.0
+length 	2.0, 2.0
+
+move wr //walk right
+rot 	170.0,	180.0
+length 	2.0, 2.0
+
+move fl //fight left
+rot 	250.0,	320.0
+length 	1.0, 0.2
+
+move fr //fight right
+rot 	290.0,	220.0
+length 	1.0, 0.2
+
+move st // stance
+rot 	100.0
+length 	0.2
+
+move de //dead
+rot		30
+length 	1.0
+
+part rf //------------------right forearm
+move wl //walk left
+rot 	345.0,	355.0
+length 	2.0, 2.0
+
+move wr //walk right
+rot 	195.0,	185.0
+length 	2.0, 2.0
+
+move fl //fight left
+rot 	260.0,	310.0
+length 	1.0, 0.2
+
+move fr //fight right
+rot 	280.0,	230.0
+length 	1.0, 0.2
+
+move st // stance
+rot 	100.0
+length 	0.2
+
+move de //dead
+rot		150
+length 	1.0
